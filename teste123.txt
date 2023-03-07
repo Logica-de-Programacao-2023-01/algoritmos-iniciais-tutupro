@@ -1,1 +1,30 @@
-e2w3e4r5tyhuj7
+1º Algoritimo:
+
+leia x
+leia y
+soma = x + y
+ escrever soma
+
+2º Algoritimo:
+
+ler celsius x = 0 // indentifica os valores
+ler fahrenheit y = 0 
+calcular y = x * 1,8 + 32
+  se escrever resultado da converção de celsius para fahrenheit é "valor de y"
+calcular x = y - 32
+ então escrever resultado da converção de fahrenheit para celsius é "valor de x"
+
+3º Algoritimo:
+
+var leia x;
+var leia y;
+var leia z;
+somar = x + y + z
+ne = numeros de elementos = 3
+calcular = somar / ne
+fim
+
+4º Algoritimo:
+
+
+
