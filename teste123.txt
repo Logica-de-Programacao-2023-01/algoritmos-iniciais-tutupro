@@ -26,5 +26,16 @@ fim
 
 4º Algoritimo:
 
+var resultado
+leia numero
+calcular numero * numero - 1 = resultado
+se numero <= 0
+ escreva resultado
+então numero > 0
+ faça calcular
+
+5º Algoritimo:
+
+
 
 
